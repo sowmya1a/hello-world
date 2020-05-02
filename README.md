@@ -1,2 +1,2 @@
 # hello-world
-learning
+I'm Sowmya and new to coding.
